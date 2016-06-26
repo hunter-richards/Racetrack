@@ -9,7 +9,7 @@ namespace lab_racetrack
 {
     public class Guy
     {
-        public string Name; // The guy's name
+        public string Name; // The guy's name.
         public Bet MyBet; // An instance of Bet that has his bet
         public int Cash; // How much cash he has
 
